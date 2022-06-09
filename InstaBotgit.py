@@ -14,7 +14,8 @@ from selenium import webdriver #the library for accesing chrome by our code
 
 
 #window to accept inputs username, password, and hashtags
-print("enter username:-")
+print("d.i.l.an
+      :-")
 user=input()
 passw=input("enter password:-")
 print("enter hashtags seperated by , :-")
